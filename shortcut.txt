@@ -1,0 +1,33 @@
+font-family: 'Roboto', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Montserrat', sans-serif;
+
+
+
+<i class="fas fa-pencil-alt"></i>
+<i class="fas fa-layer-group"></i>
+<i class="fas fa-cog"></i>
+<i class="fas fa-folder-open"></i>
+
+
+<i class="fas fa-link"></i>
+<i class="fas fa-search"></i>
+
+<i class="fas fa-play-circle"></i>
+
+
+<i class="fas fa-angle-right"></i>
+
+<i class="fas fa-user-tie"></i>
+<i class="fas fa-mug-hot"></i>
+<i class="fas fa-comment-dots"></i>
+<i class="fas fa-heart"></i>
+<i class="fas fa-utensils"></i>
+
+
+
+
+
+
+
+
